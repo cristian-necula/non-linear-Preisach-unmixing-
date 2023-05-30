@@ -1,5 +1,7 @@
 # non-linear-Preisach-unmixing-
-Jupyter notebooks and data for non-linear Preisach measurements unmixing associated to "Resolving the Interpretation of Magnetic Coercivity Components from Isothermal Remanence Curves Using Unmixing of Non-linear Preisach Maps: Pedogenesis and Provenance in Loess-Paleosol Sequences" by Cristian Necula1, Ioan Lascu2, Cristian Panaiotu1, Daniela Gheorghe3
+Jupyter notebooks and data for non-linear Preisach measurements unmixing associated to "Resolving the Interpretation of Magnetic Coercivity Components from Isothermal Remanence Curves Using Unmixing of Non-linear Preisach Maps: Pedogenesis and Provenance in Loess-Paleosol Sequences" by Cristian Necula1, Ioan Lascu2, Cristian Panaiotu1, Daniela Gheorghe3.
+
+The notebooks make use of packages Hyperspy, numpy, matplotlib, sklearn, scipy. Install these packages using pip prior to run the notebooks.
 
 
 Data description
